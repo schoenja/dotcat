@@ -33,3 +33,6 @@ MANIFEST<Paste>
 # Environments
 .venv
 
+# Sphinx documentation
+docs/_build/
+
